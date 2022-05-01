@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @dripkid69
+- 👋 Hi, I’m @d1pp3r117
 - 👀 I’m interested in coding and cybersecurity...
 - 🌱 I’m currently learning python ...
+- I am excited to share some of my projects I have managed to implement that are related to cybersecurity.
+-  
 
 
 <!---
